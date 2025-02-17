@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    background-color: var(--background-color1);
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
